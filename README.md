@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif">
+<img align="right" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/2/7/8/4/2514872_8ea76.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindrajitpatra&label=Profile%20Views&color=0e75b6&style=flat" alt="arindrajitpatra" /> </p>
 
